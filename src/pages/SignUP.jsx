@@ -148,7 +148,7 @@ const SignUP = () => {
               id="fullName"
               placeholder="Enter your name"
               autoComplete="name"
-              className="p-2 rounded-lg outline-black bg-transparent border border-black"
+              className="p-2 rounded-lg outline-black bg-transparent border border-black text-gray-600"
             />
           </div>
 
@@ -165,7 +165,7 @@ const SignUP = () => {
               id="email"
               placeholder="Enter your email"
               autoComplete="email"
-              className="p-2 rounded-lg outline-black bg-transparent border border-black"
+              className="p-2 rounded-lg outline-black bg-transparent border border-black text-gray-600"
             />
           </div>
 
@@ -181,7 +181,7 @@ const SignUP = () => {
               id="Password"
               autoComplete="current-password"
               placeholder="Enter your Password"
-              className="p-2 rounded-lg outline-black bg-transparent border border-black"
+              className="p-2 rounded-lg outline-black bg-transparent border border-black text-gray-600"
             />
           </div>
 
