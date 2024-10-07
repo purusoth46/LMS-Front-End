@@ -162,21 +162,5 @@ const authSlice = createSlice({
 });
 
 export default authSlice.reducer; 
-// {
-//     "success": true,
-//         "message": "User logged in successfully",
-//             "data": {
-//         "avatar": {
-//             "public_id": "damodarryadav@gmail.com",
-//                 "secure_url": "https://res.cloudinary.com/du9jzqlpt/image/upload/v1674647316/avatar_drzgxv.jpg"
-//         },
-//         "_id": "659b72a5dbf39140f16af552",
-//             "fullName": "damodar",
-//                 "email": "damodarryadav@gmail.com",
-//                     "role": "ADMIN",
-//                         "createdAt": "2024-01-08T03:57:25.369Z",
-//                             "updatedAt": "2024-01-08T03:57:25.369Z",
-//                                 "__v": 0
-//     }
-// }
+
 
